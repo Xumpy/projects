@@ -1,0 +1,18 @@
+<strings>
+    <string id="AppName">Domoticz</string>
+	<string id="rolluik_huis_zonder_deur_sluiten">Rolluik Huis Zonder Deur Sluiten</string>
+    <string id="rolluik_huis_sluiten">Rolluik Huis Sluiten</string>
+    <string id="rolluik_huis_open">Rolluik Huis Open</string>
+    <string id="rolluik_living_links">Rolluik Living Links</string>
+    <string id="rolluik_living_rechts">Rolluik Living Rechts</string>
+    <string id="rolluik_living_voorkant">Rolluik Living Voorkant</string>
+    <string id="rolluik_deur">Rolluik Deur</string>
+    <string id="rolluik_slaapkamer1">Rolluik Slaapkamer 1</string>
+    <string id="rolluik_slaapkamer2">Rolluik Slaapkamer 2</string>
+    <string id="rolluik_badkamer">Rolluik Badkamer</string>
+    <string id="rolluik_bureau">Rolluik Bureau</string>
+    <string id="rolluik_keuken">Rolluik Keuken</string>
+    <string id="rolluik_berging">Rolluik Berging</string>
+    <string id="lamp_garage">Lamp Garage</string>
+    <string id="boiler">Boiler</string>
+</strings>

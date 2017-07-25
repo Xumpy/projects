@@ -1,0 +1,19 @@
+<menu id="MainMenu">
+	<menu-item id="rolluik_huis_zonder_deur_sluiten">@Strings.rolluik_huis_zonder_deur_sluiten</menu-item>
+	<menu-item id="rolluik_slaapkamer1">@Strings.rolluik_slaapkamer1</menu-item>
+    <menu-item id="lamp_garage">@Strings.lamp_garage</menu-item>
+    <menu-item id="boiler">@Strings.boiler</menu-item>
+    <menu-item id="rolluik_living_links">@Strings.rolluik_living_links</menu-item>
+    <menu-item id="rolluik_living_rechts">@Strings.rolluik_living_rechts</menu-item>
+    <menu-item id="rolluik_living_voorkant">@Strings.rolluik_living_voorkant</menu-item>
+    <menu-item id="rolluik_deur">@Strings.rolluik_deur</menu-item>
+    <menu-item id="rolluik_slaapkamer1">@Strings.rolluik_slaapkamer1</menu-item>
+    <menu-item id="rolluik_slaapkamer2">@Strings.rolluik_slaapkamer2</menu-item>
+    <menu-item id="rolluik_badkamer">@Strings.rolluik_badkamer</menu-item>
+    <menu-item id="rolluik_bureau">@Strings.rolluik_bureau</menu-item>
+    <menu-item id="rolluik_keuken">@Strings.rolluik_keuken</menu-item>
+    <menu-item id="rolluik_berging">@Strings.rolluik_berging</menu-item>
+    <menu-item id="rolluik_huis_sluiten">@Strings.rolluik_huis_sluiten</menu-item>
+	<menu-item id="rolluik_huis_open">@Strings.rolluik_huis_open</menu-item>
+	
+</menu>

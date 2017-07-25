@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<pcToLineNum>
+<entry filename="/Users/nico/AnypointStudio/workspace3/Domoticz/source/DomoticzView.mc" lineNum="5" pc="268435456" symbol="initialize"/>
+<entry filename="/Users/nico/AnypointStudio/workspace3/Domoticz/source/DomoticzView.mc" lineNum="6" pc="268435460" symbol="initialize"/>
+<entry filename="/Users/nico/AnypointStudio/workspace3/Domoticz/source/DomoticzView.mc" lineNum="10" pc="268435479" symbol="onLayout"/>
+<entry filename="/Users/nico/AnypointStudio/workspace3/Domoticz/source/DomoticzView.mc" lineNum="11" pc="268435483" symbol="onLayout"/>
+<entry filename="/Users/nico/AnypointStudio/workspace3/Domoticz/source/DomoticzView.mc" lineNum="17" pc="268435521" symbol="onShow"/>
+<entry filename="/Users/nico/AnypointStudio/workspace3/Domoticz/source/DomoticzView.mc" lineNum="21" pc="268435526" symbol="onUpdate"/>
+<entry filename="/Users/nico/AnypointStudio/workspace3/Domoticz/source/DomoticzView.mc" lineNum="23" pc="268435530" symbol="onUpdate"/>
+<entry filename="/Users/nico/AnypointStudio/workspace3/Domoticz/source/DomoticzView.mc" lineNum="29" pc="268435551" symbol="onHide"/>
+<entry filename="/Users/nico/AnypointStudio/workspace3/Domoticz/source/DomoticzMenuDelegate.mc" lineNum="10" pc="268435556" symbol="initialize"/>
+<entry filename="/Users/nico/AnypointStudio/workspace3/Domoticz/source/DomoticzMenuDelegate.mc" lineNum="11" pc="268435560" symbol="initialize"/>
+<entry filename="/Users/nico/AnypointStudio/workspace3/Domoticz/source/DomoticzMenuDelegate.mc" lineNum="14" pc="268435579" symbol="onMenuItem"/>
+<entry filename="/Users/nico/AnypointStudio/workspace3/Domoticz/source/DomoticzMenuDelegate.mc" lineNum="15" pc="268435583" symbol="onMenuItem"/>
+<entry filename="/Users/nico/AnypointStudio/workspace3/Domoticz/source/DomoticzMenuDelegate.mc" lineNum="15" pc="268435594" symbol="onMenuItem"/>
+<entry filename="/Users/nico/AnypointStudio/workspace3/Domoticz/source/DomoticzMenuDelegate.mc" lineNum="16" pc="268435616" symbol="onMenuItem"/>
+<entry filename="/Users/nico/AnypointStudio/workspace3/Domoticz/source/DomoticzMenuDelegate.mc" lineNum="16" pc="268435627" symbol="onMenuItem"/>
+<entry filename="/Users/nico/AnypointStudio/workspace3/Domoticz/source/DomoticzMenuDelegate.mc" lineNum="17" pc="268435647" symbol="onMenuItem"/>
+<entry filename="/Users/nico/AnypointStudio/workspace3/Domoticz/source/DomoticzMenuDelegate.mc" lineNum="17" pc="268435658" symbol="onMenuItem"/>
+<entry filename="/Users/nico/AnypointStudio/workspace3/Domoticz/source/DomoticzMenuDelegate.mc" lineNum="18" pc="268435678" symbol="onMenuItem"/>
+<entry filename="/Users/nico/AnypointStudio/workspace3/Domoticz/source/DomoticzMenuDelegate.mc" lineNum="18" pc="268435689" symbol="onMenuItem"/>
+<entry filename="/Users/nico/AnypointStudio/workspace3/Domoticz/source/DomoticzMenuDelegate.mc" lineNum="19" pc="268435709" symbol="onMenuItem"/>
+<entry filename="/Users/nico/AnypointStudio/workspace3/Domoticz/source/DomoticzMenuDelegate.mc" lineNum="19" pc="268435720" symbol="onMenuItem"/>
+<entry filename="/Users/nico/AnypointStudio/workspace3/Domoticz/source/DomoticzMenuDelegate.mc" lineNum="20" pc="268435740" symbol="onMenuItem"/>
+<entry filename="/Users/nico/AnypointStudio/workspace3/Domoticz/source/DomoticzMenuDelegate.mc" lineNum="20" pc="268435751" symbol="onMenuItem"/>
+<entry filename="/Users/nico/AnypointStudio/workspace3/Domoticz/source/DomoticzMenuDelegate.mc" lineNum="21" pc="268435771" symbol="onMenuItem"/>
+<entry filename="/Users/nico/AnypointStudio/workspace3/Domoticz/source/DomoticzMenuDelegate.mc" lineNum="21" pc="268435782" symbol="onMenuItem"/>
+<entry filename="/Users/nico/AnypointStudio/workspace3/Domoticz/source/DomoticzMenuDelegate.mc" lineNum="22" pc="268435802" symbol="onMenuItem"/>
+<entry filename="/Users/nico/AnypointStudio/workspace3/Domoticz/source/DomoticzMenuDelegate.mc" lineNum="22" pc="268435813" symbol="onMenuItem"/>
+<entry filename="/Users/nico/AnypointStudio/workspace3/Domoticz/source/DomoticzMenuDelegate.mc" lineNum="23" pc="268435833" symbol="onMenuItem"/>
+<entry filename="/Users/nico/AnypointStudio/workspace3/Domoticz/source/DomoticzMenuDelegate.mc" lineNum="23" pc="268435844" symbol="onMenuItem"/>
+<entry filename="/Users/nico/AnypointStudio/workspace3/Domoticz/source/DomoticzMenuDelegate.mc" lineNum="24" pc="268435864" symbol="onMenuItem"/>
+<entry filename="/Users/nico/AnypointStudio/workspace3/Domoticz/source/DomoticzMenuDelegate.mc" lineNum="24" pc="268435875" symbol="onMenuItem"/>
+<entry filename="/Users/nico/AnypointStudio/workspace3/Domoticz/source/DomoticzMenuDelegate.mc" lineNum="25" pc="268435895" symbol="onMenuItem"/>
+<entry filename="/Users/nico/AnypointStudio/workspace3/Domoticz/source/DomoticzMenuDelegate.mc" lineNum="25" pc="268435906" symbol="onMenuItem"/>
+<entry filename="/Users/nico/AnypointStudio/workspace3/Domoticz/source/DomoticzMenuDelegate.mc" lineNum="26" pc="268435926" symbol="onMenuItem"/>
+<entry filename="/Users/nico/AnypointStudio/workspace3/Domoticz/source/DomoticzMenuDelegate.mc" lineNum="26" pc="268435937" symbol="onMenuItem"/>
+<entry filename="/Users/nico/AnypointStudio/workspace3/Domoticz/source/DomoticzMenuDelegate.mc" lineNum="27" pc="268435957" symbol="onMenuItem"/>
+<entry filename="/Users/nico/AnypointStudio/workspace3/Domoticz/source/DomoticzMenuDelegate.mc" lineNum="27" pc="268435968" symbol="onMenuItem"/>
+<entry filename="/Users/nico/AnypointStudio/workspace3/Domoticz/source/DomoticzMenuDelegate.mc" lineNum="28" pc="268435988" symbol="onMenuItem"/>
+<entry filename="/Users/nico/AnypointStudio/workspace3/Domoticz/source/DomoticzMenuDelegate.mc" lineNum="28" pc="268435999" symbol="onMenuItem"/>
+<entry filename="/Users/nico/AnypointStudio/workspace3/Domoticz/source/DomoticzMenuDelegate.mc" lineNum="29" pc="268436021" symbol="onMenuItem"/>
+<entry filename="/Users/nico/AnypointStudio/workspace3/Domoticz/source/DomoticzMenuDelegate.mc" lineNum="29" pc="268436032" symbol="onMenuItem"/>
+<entry filename="/Users/nico/AnypointStudio/workspace3/Domoticz/source/DomoticzMenuDelegate.mc" lineNum="33" pc="268436055" symbol="switchDomoticz"/>
+<entry filename="/Users/nico/AnypointStudio/workspace3/Domoticz/source/DomoticzMenuDelegate.mc" lineNum="34" pc="268436059" symbol="switchDomoticz"/>
+<entry filename="/Users/nico/AnypointStudio/workspace3/Domoticz/source/DomoticzMenuDelegate.mc" lineNum="36" pc="268436066" symbol="switchDomoticz"/>
+<entry filename="/Users/nico/AnypointStudio/workspace3/Domoticz/source/DomoticzMenuDelegate.mc" lineNum="38" pc="268436123" symbol="switchDomoticz"/>
+<entry filename="/Users/nico/AnypointStudio/workspace3/Domoticz/source/DomoticzMenuDelegate.mc" lineNum="41" pc="268436186" symbol="switchDomoticzScene"/>
+<entry filename="/Users/nico/AnypointStudio/workspace3/Domoticz/source/DomoticzMenuDelegate.mc" lineNum="42" pc="268436190" symbol="switchDomoticzScene"/>
+<entry filename="/Users/nico/AnypointStudio/workspace3/Domoticz/source/DomoticzMenuDelegate.mc" lineNum="44" pc="268436197" symbol="switchDomoticzScene"/>
+<entry filename="/Users/nico/AnypointStudio/workspace3/Domoticz/source/DomoticzMenuDelegate.mc" lineNum="45" pc="268436197" symbol="switchDomoticzScene"/>
+<entry filename="/Users/nico/AnypointStudio/workspace3/Domoticz/source/DomoticzMenuDelegate.mc" lineNum="46" pc="268436202" symbol="switchDomoticzScene"/>
+<entry filename="/Users/nico/AnypointStudio/workspace3/Domoticz/source/DomoticzMenuDelegate.mc" lineNum="48" pc="268436262" symbol="switchDomoticzScene"/>
+<entry filename="/Users/nico/AnypointStudio/workspace3/Domoticz/source/DomoticzMenuDelegate.mc" lineNum="50" pc="268436319" symbol="switchDomoticzScene"/>
+<entry filename="/Users/nico/AnypointStudio/workspace3/Domoticz/source/DomoticzMenuDelegate.mc" lineNum="53" pc="268436382" symbol="onReceive"/>
+<entry filename="/Users/nico/AnypointStudio/workspace3/Domoticz/source/DomoticzMenuDelegate.mc" lineNum="54" pc="268436386" symbol="onReceive"/>
+<entry filename="/Users/nico/AnypointStudio/workspace3/Domoticz/source/DomoticzMenuDelegate.mc" lineNum="55" pc="268436407" symbol="onReceive"/>
+<entry filename="/Users/nico/AnypointStudio/workspace3/Domoticz/source/DomoticzMenuDelegate.mc" lineNum="56" pc="268436418" symbol="onReceive"/>
+<entry filename="/Users/nico/AnypointStudio/workspace3/Domoticz/source/DomoticzMenuDelegate.mc" lineNum="57" pc="268436439" symbol="onReceive"/>
+<entry filename="/Users/nico/AnypointStudio/workspace3/Domoticz/source/DomoticzMenuDelegate.mc" lineNum="59" pc="268436460" symbol="onReceive"/>
+<entry filename="/Users/nico/AnypointStudio/workspace3/Domoticz/source/DomoticzMenuDelegate.mc" lineNum="60" pc="268436484" symbol="onReceive"/>
+<entry filename="/Users/nico/AnypointStudio/workspace3/Domoticz/source/DomoticzDelegate.mc" lineNum="5" pc="268436509" symbol="initialize"/>
+<entry filename="/Users/nico/AnypointStudio/workspace3/Domoticz/source/DomoticzDelegate.mc" lineNum="6" pc="268436513" symbol="initialize"/>
+<entry filename="/Users/nico/AnypointStudio/workspace3/Domoticz/source/DomoticzDelegate.mc" lineNum="9" pc="268436532" symbol="onMenu"/>
+<entry filename="/Users/nico/AnypointStudio/workspace3/Domoticz/source/DomoticzDelegate.mc" lineNum="10" pc="268436536" symbol="onMenu"/>
+<entry filename="/Users/nico/AnypointStudio/workspace3/Domoticz/source/DomoticzDelegate.mc" lineNum="11" pc="268436620" symbol="onMenu"/>
+<entry filename="/Users/nico/AnypointStudio/workspace3/Domoticz/source/DomoticzApp.mc" lineNum="6" pc="268436624" symbol="initialize"/>
+<entry filename="/Users/nico/AnypointStudio/workspace3/Domoticz/source/DomoticzApp.mc" lineNum="7" pc="268436628" symbol="initialize"/>
+<entry filename="/Users/nico/AnypointStudio/workspace3/Domoticz/source/DomoticzApp.mc" lineNum="11" pc="268436647" symbol="onStart"/>
+<entry filename="/Users/nico/AnypointStudio/workspace3/Domoticz/source/DomoticzApp.mc" lineNum="15" pc="268436652" symbol="onStop"/>
+<entry filename="/Users/nico/AnypointStudio/workspace3/Domoticz/source/DomoticzApp.mc" lineNum="19" pc="268436657" symbol="getInitialView"/>
+<entry filename="/Users/nico/AnypointStudio/workspace3/Domoticz/source/DomoticzApp.mc" lineNum="20" pc="268436661" symbol="getInitialView"/>
+<entry filename="Rez" lineNum="27" pc="268436729" symbol="initialize"/>
+<entry filename="Rez" lineNum="28" pc="268436733" symbol="initialize"/>
+<entry filename="Rez" lineNum="29" pc="268436751" symbol="initialize"/>
+<entry filename="Rez" lineNum="30" pc="268436803" symbol="initialize"/>
+<entry filename="Rez" lineNum="31" pc="268436855" symbol="initialize"/>
+<entry filename="Rez" lineNum="32" pc="268436907" symbol="initialize"/>
+<entry filename="Rez" lineNum="33" pc="268436959" symbol="initialize"/>
+<entry filename="Rez" lineNum="34" pc="268437011" symbol="initialize"/>
+<entry filename="Rez" lineNum="35" pc="268437063" symbol="initialize"/>
+<entry filename="Rez" lineNum="36" pc="268437115" symbol="initialize"/>
+<entry filename="Rez" lineNum="37" pc="268437167" symbol="initialize"/>
+<entry filename="Rez" lineNum="38" pc="268437219" symbol="initialize"/>
+<entry filename="Rez" lineNum="39" pc="268437271" symbol="initialize"/>
+<entry filename="Rez" lineNum="40" pc="268437323" symbol="initialize"/>
+<entry filename="Rez" lineNum="41" pc="268437375" symbol="initialize"/>
+<entry filename="Rez" lineNum="42" pc="268437427" symbol="initialize"/>
+<entry filename="Rez" lineNum="43" pc="268437479" symbol="initialize"/>
+<entry filename="Rez" lineNum="44" pc="268437531" symbol="initialize"/>
+<entry filename="Rez" lineNum="60" pc="268437584" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="62" pc="268437588" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="63" pc="268437704" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="66" pc="268437756" symbol="MainLayout"/>
+</pcToLineNum>
+<symbolTable>
+<entry field="true" id="27" symbol="rolluik_huis_sluiten"/>
+<entry field="true" id="28" symbol="rolluik_living_links"/>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry field="true" id="25" symbol="rolluik_deur"/>
+<entry id="8" object="true" symbol="DomoticzView"/>
+<entry field="true" id="8388611" symbol="Toybox"/>
+<entry field="true" id="31" symbol="rolluik_berging"/>
+<entry id="16" object="true" symbol="MainMenu"/>
+<entry id="8388770" module="true" symbol="Strings"/>
+<entry field="true" id="23" symbol="lamp_garage"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry id="17" method="true" symbol="MainLayout"/>
+<entry field="true" id="24" symbol="rolluik_living_voorkant"/>
+<entry id="37" method="true" symbol="switchDomoticzScene"/>
+<entry id="8388769" module="true" symbol="Rez"/>
+<entry id="8389123" method="true" symbol="onShow"/>
+<entry id="10" object="true" symbol="DomoticzDelegate"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry field="true" id="32" symbol="AppName"/>
+<entry id="8389080" method="true" symbol="onMenu"/>
+<entry field="true" id="33" symbol="boiler"/>
+<entry field="true" id="18" symbol="rolluik_keuken"/>
+<entry field="true" id="15" symbol="LauncherIcon"/>
+<entry field="true" id="30" symbol="rolluik_badkamer"/>
+<entry id="11" object="true" symbol="DomoticzApp"/>
+<entry field="true" id="26" symbol="rolluik_living_rechts"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry id="36" method="true" symbol="switchDomoticz"/>
+<entry id="8389065" symbol="locY"/>
+<entry id="8389064" symbol="locX"/>
+<entry id="8388771" module="true" symbol="Drawables"/>
+<entry id="8389122" method="true" symbol="onLayout"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry field="true" id="14" symbol="id_monkey"/>
+<entry field="true" id="20" symbol="rolluik_huis_zonder_deur_sluiten"/>
+<entry field="true" id="22" symbol="rolluik_bureau"/>
+<entry id="8389109" method="true" symbol="onMenuItem"/>
+<entry id="13" module="true" symbol="Layouts"/>
+<entry id="8389125" method="true" symbol="onHide"/>
+<entry id="8389345" symbol="rezId"/>
+<entry field="true" id="34" symbol="switchScene3"/>
+<entry field="true" id="35" symbol="switchScene2"/>
+<entry id="8389063" symbol="identifier"/>
+<entry id="12" module="true" symbol="Menus"/>
+<entry id="38" method="true" symbol="onReceive"/>
+<entry field="true" id="19" symbol="rolluik_huis_open"/>
+<entry field="true" id="21" symbol="rolluik_slaapkamer2"/>
+<entry field="true" id="29" symbol="rolluik_slaapkamer1"/>
+<entry id="9" object="true" symbol="DomoticzMenuDelegate"/>
+<entry id="8388772" module="true" symbol="Fonts"/>
+</symbolTable>
+<localVars>
+<entry endPc="268436185" name="url" stackId="2" startPc="268436059"/>
+<entry endPc="268436185" name="params" stackId="3" startPc="268436059"/>
+<entry endPc="268436381" name="url" stackId="3" startPc="268436190"/>
+<entry endPc="268436381" name="params" stackId="4" startPc="268436190"/>
+<entry endPc="268437773" name="rez_cmp_local_bitmap_id_monkey" stackId="2" startPc="268437588"/>
+</localVars>
+<annotations/>
+<functions>
+<functionEntry name="initialize" parent="DomoticzView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onLayout" parent="DomoticzView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onShow" parent="DomoticzView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onUpdate" parent="DomoticzView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onHide" parent="DomoticzView">
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="DomoticzMenuDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry name="onMenuItem" parent="DomoticzMenuDelegate">
+<param id="item"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="switchDomoticz" parent="DomoticzMenuDelegate">
+<param id="idx"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="switchDomoticzScene" parent="DomoticzMenuDelegate">
+<param id="idx"/>
+<param id="bool"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onReceive" parent="DomoticzMenuDelegate">
+<param id="responseCode"/>
+<param id="data"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="DomoticzDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry name="onMenu" parent="DomoticzDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="DomoticzApp">
+<documentation/>
+</functionEntry>
+<functionEntry name="onStart" parent="DomoticzApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onStop" parent="DomoticzApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="getInitialView" parent="DomoticzApp">
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="MainMenu">
+<documentation/>
+</functionEntry>
+<functionEntry name="MainLayout" parent="Layouts">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Draw the layout<br/> param The context<br/></div>]]></documentation>
+</functionEntry>
+</functions>
+</debugInfo>
